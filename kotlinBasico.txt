@@ -1,0 +1,50 @@
+kotlin Para iniciantes Básico
+
+
+Kotlin foi criada pela JetBrains com o objetivo de ser uma linguagem de programação concisa e segura para o desenvolvimento web, mobile e desktop, com um amplo conjunto de ferramentas e IDEs fáceis de utilizar. 
+
+Sintaxe
+
+Pronto para aprender Kotlin? Então acesse o artigo abaixo para configurar o seu ambiente de desenvolvimento e começar a estudar essa linguagem!
+Kotlin introduz uma distinção entre variáveis, que podem ter o seu valor modificado, e valores, que são imutáveis. Na prática, temos duas palavras-chave para declarar variáveis, val e var. Para variáveis usamos var e para valores val. O artigo abaixo explica as diferenças entre elas:
+A execução dos comandos se dá linha a linha, mas podemos alterar isso com as estruturas de controle de fluxo, como if, when, for e while. Ao longo do artigo abaixo conheceremos situações de uso e como resolvê-las utilizando a estrutura mais adequada:
+
+Começando no Kotlin
+
+Kotlin foi criada pela JetBrains com o objetivo de ser uma linguagem de programação concisa e segura para o desenvolvimento web, mobile e desktop, com um amplo conjunto de ferramentas e IDEs fáceis de utilizar.
+
+Confira abaixo o FAQ que preparamos sobre essa linguagem! 🙌
+Kotlin: Hello World
+Artigo
+Kotlin: FAQ - Conheça melhor essa linguagem
+
+Para conhecer mais sobre a sintaxe do Kotlin e as suas principais estruturas recomendamos o artigo Kotlin: Tour pela linguagem, disponível no link abaixo:
+Kotlin: Tour pela linguagem
+Artigo
+Kotlin: Tour pela linguagem
+
+Com esses conteúdos você estará pronto para se decidir pelo Kotlin e avançar no estudo da programação funcional e orientada a objetos com essa linguagem.
+Sintaxe
+
+Pronto para aprender Kotlin? Então acesse o artigo abaixo para configurar o seu ambiente de desenvolvimento e começar a estudar essa linguagem!
+Kotlin: Hello World
+Artigo
+Kotlin: Hello World
+
+Kotlin introduz uma distinção entre variáveis, que podem ter o seu valor modificado, e valores, que são imutáveis. Na prática, temos duas palavras-chave para declarar variáveis, val e var. Para variáveis usamos var e para valores val. O artigo abaixo explica as diferenças entre elas:
+Kotlin: Variáveis
+Artigo
+Kotlin: Variáveis
+
+A execução dos comandos se dá linha a linha, mas podemos alterar isso com as estruturas de controle de fluxo, como if, when, for e while. Ao longo do artigo abaixo conheceremos situações de uso e como resolvê-las utilizando a estrutura mais adequada:
+
+    Artigo
+    Kotlin: Controle de fluxoNovo
+
+    Ver introdução
+
+Pronto para avançar? Ótimo! 
+
+Kotlin é constantemente associada ao Java, isso em parte porque ambas são linguagens utilizadas no desenvolvimento para Android e também porque o código Kotlin pode ser executado na JVM, a máquina virtual do Java. Assim, você pode usar Kotlin também em projetos Spring ou JavaFX, por exemplo. Contudo, a proximidade entre essas linguagens termina por aqui, pois suas sintaxes e forma de resolver problemas são diferentes.
+
+Por exemplo, em Kotlin uma função não precisa pertencer a uma classe. Isso dá ao desenvolvedor a possibilidade de escrever sistemas puramente funcionais ou pequenos scripts para resolver problemas corriqueiros. Com o artigo abaixo você aprenderá tudo o necessário para escrever funções em Kotlin de forma consistente:
